@@ -11,7 +11,7 @@
     ],
     "license": "MIT",
     "homepage": "https://github.com/SiqiLu/moe-font-opensans",
-    "main": ["fonts.css", "fonts.min.css", "fonts/*"],
+    "main": ["fonts.css", "fonts.min.css", "fonts/"],
     "ignore": [
         "**/.*",
         "node_modules",
