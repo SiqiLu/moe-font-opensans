@@ -1,0 +1,27 @@
+{
+  "name": "moe-font-opensans",
+  "version": "0.1.0",
+  "description": "open sans font",
+  "main": "fonts.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SiqiLu/moe-font-opensans"
+  },
+  "keywords": [
+    "open-sans",
+    "font"
+  ],
+  "author": "Siqi Lu <lu.siqi@outlook.com> (https://github.com/SiqiLu)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SiqiLu/moe-font-opensans/issues"
+  },
+  "homepage": "https://github.com/SiqiLu/moe-font-opensans",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-cssmin": "^0.11.0"
+  }
+}

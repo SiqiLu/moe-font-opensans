@@ -1,0 +1,21 @@
+{
+  "name": "moe-font-opensans",
+  "version": "0.1.0",
+  "authors": [
+    "Siqi Lu <lu.siqi@outlook.com>"
+  ],
+  "description": "open sans font",
+  "keywords": [
+    "open-sans",
+    "font"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/SiqiLu/moe-font-opensans",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
