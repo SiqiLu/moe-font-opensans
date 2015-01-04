@@ -1,6 +1,6 @@
 {
   "name": "moe-font-opensans",
-  "version": "0.7.0",
+  "version": "1.0.0",
   "description": "open sans font",
   "main": "fonts.css",
   "scripts": {
