@@ -1,6 +1,6 @@
 {
     "name": "moe-font-opensans",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "authors": [
         "Siqi Lu <lu.siqi@outlook.com>"
     ],
@@ -11,7 +11,7 @@
     ],
     "license": "MIT",
     "homepage": "https://github.com/SiqiLu/moe-font-opensans",
-    "main": ["fonts.css", "fonts.min.css", "fonts/*"],
+    "main": ["fonts.css", "fonts.min.css", "*.eot", "*.svg", "*.ttf", "*.woff", "*.woff2"],
     "ignore": [
         "**/.*",
         "node_modules",
