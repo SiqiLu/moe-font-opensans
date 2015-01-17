@@ -1,6 +1,10 @@
 {
     "name": "moe-font-opensans",
+<<<<<<< HEAD
     "version": "1.2.0",
+=======
+    "version": "1.0.1",
+>>>>>>> parent of dc30ffd... add MIT license
     "authors": [
         "Siqi Lu <lu.siqi@outlook.com>"
     ],
